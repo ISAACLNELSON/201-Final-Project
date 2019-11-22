@@ -8,7 +8,7 @@ _v1 11/17/19_ - Isaac set up animation
 
 _v2 11/18/19_ - Wireframe & Work on JS Logic and CSS and display
 
-_v3 11/19/19_ - MVP sprint, gameplay, display & ocal storage
+_v3 11/19/19_ - MVP sprint, gameplay, display & Cindy wrote original local storage
 
 _v4 11/20/19_ - MVP presentation
 
